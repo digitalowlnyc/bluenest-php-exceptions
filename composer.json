@@ -1,0 +1,15 @@
+{
+    "name": "bluenest/php-exceptions",
+    "authors": [
+        {
+            "name": "Bryan",
+            "email": "bryan@bluenestdigital.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
